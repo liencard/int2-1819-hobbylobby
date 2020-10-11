@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.332" height="8.179" viewBox="0 0 14.332 8.179">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="14.332" height="8.179" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="arrow_next" data-name="arrow next" clip-path="url(#clip-path)">
+    <path id="Path_10" data-name="Path 10" d="M3.743,0,3.09.653,5.561,3.123H-6v.932H5.561L3.09,6.526l.653.653,3.59-3.59Z" transform="translate(6.5 0.5)" fill="#3c4f32" stroke="#3c4f32" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

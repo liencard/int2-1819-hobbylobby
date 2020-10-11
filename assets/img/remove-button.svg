@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20.48" height="20.48" viewBox="0 0 20.48 20.48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="11.039" height="11.039" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_399" data-name="Group 399" transform="translate(-1158 -500)">
+    <g id="Group_153" data-name="Group 153" transform="translate(0 106)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="10.24" cy="10.24" r="10.24" transform="translate(1158 394)" fill="#a63d29"/>
+      <g id="close" transform="translate(1163 399)" clip-path="url(#clip-path)">
+        <path id="Union_3" data-name="Union 3" d="M5.519,6.523,1,11.039l-1-1L4.516,5.519,0,1,1,0,5.519,4.516,10.035,0l1,1L6.523,5.519l4.516,4.516-1,1Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
